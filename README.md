@@ -29,7 +29,7 @@ I am driven by a passion for solving complex, real-world problems through clean,
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats-extended.vercel.app/api?username=kayenp&show_icons=true&theme=dark&count_private=true" alt="Ken's GitHub Stats" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api?username=kayenp&hide_rank=true&show_icons=true&include_all_commits=true" alt="Ken's GitHub Stats" />
   <img height="160" src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=kayenp&layout=compact&theme=dark&hide=html,css" alt="Top Languages" />
 </p>
 
