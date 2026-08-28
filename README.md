@@ -1,4 +1,4 @@
-# Hello, my name is Ken Poon
+# Hello there, my name is Ken!
 
 **Software Engineer — Full-Stack Development, Automation & Systems Architecture**
 
@@ -55,6 +55,6 @@ I design and build reliable, scalable systems at the intersection of full-stack 
 
 ## Contact
 
-- **Portfolio:** [kenpoon.dev](https://kenpoon.dev)
-- **LinkedIn:** [linkedin.com/in/kenpoon](https://linkedin.com/in/kenpoon)
-- **Email:** [contact@kenpoon.dev](mailto:contact@kenpoon.dev)
+- **Portfolio:** [everstp.com](https://everstp.com)
+- **LinkedIn:** [linkedin.com/in/kenpoon](https://linkedin.com/in/ken-poon-dev)
+- **Email:** [ken@everstp.com](mailto:ken@everstp.com)
