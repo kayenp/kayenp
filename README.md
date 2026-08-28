@@ -30,7 +30,7 @@ I am driven by a passion for solving complex, real-world problems through clean,
 
 <p align="center">
   <img height="160" src="https://github-readme-stats-extended.vercel.app/api?username=kayenp&show_icons=true&theme=dark&count_private=true" alt="Ken's GitHub Stats" />
-  <img height="160" src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=kayen&layout=compact&theme=dark&hide=html,css" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=kayenp&layout=compact&theme=dark&hide=html,css" alt="Top Languages" />
 </p>
 
 ---
