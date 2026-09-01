@@ -22,7 +22,7 @@ I design and build reliable, scalable systems at the intersection of full-stack 
 
 <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=8D99AE&style=plastic&logo=linkedin&logo-color=white"/>
 
-<img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=2B2D42&style=plastic&logo=react&logo-color=white"/>
+<img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=2B2D42&style=plastic&logo=buymeacoffee&logo-color=white"/>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
