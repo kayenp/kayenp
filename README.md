@@ -18,6 +18,8 @@ I design and build reliable, scalable systems at the intersection of full-stack 
 
 **Frontend & Web**
 
+<img src="https://img.shields.io/badge/WEBSITE&color=2B2D42&style=plastic&logo=react&logo-color=white"/>
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
