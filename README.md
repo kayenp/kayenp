@@ -18,7 +18,7 @@ I design and build reliable, scalable systems at the intersection of full-stack 
 
 **Frontend & Web**
 
-<img src="https://img.shields.io/badge/WEBSITE&color=2B2D42&style=plastic&logo=react&logo-color=white"/>
+<img src="https://img.shields.io/badge/WEBSITE&color=2B2D42&style=plastic&logo=buymeacoffee&logo-color=white"/>
 
 <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=8D99AE&style=plastic&logo=linkedin&logo-color=white"/>
 
