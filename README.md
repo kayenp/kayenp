@@ -71,7 +71,7 @@ Reach out to me at [my website](https://everstp.com).
 
     
    <td width="50%" valign="top">
-      <h3 align="center">Multi-browser Orchestrator and auto-checkout</h3>
+      <h3 align="center">Multi-Browser Orchestrator</h3>
       <br />
       <a target="_blank" href="https://github.com/kayenp/multi-incognito">
         <img src="" width="100%" alt="Multi-Incognito"/></a>
