@@ -83,24 +83,6 @@ Reach out to me at [my website](https://everstp.com).
       <p><strong>NodeJS, Express, Playwright, Chromium</strong> — Browser orchestrator used to launch multiple incognito custom chromium browser instances. Each instance will navigate to the specified page, select the specified product using Playwright and proceed to the checkout queue.</p>
     </td>
   </tr>
-
-  
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Everstp.com</h3>
-      <br />
-        <a target="_blank" href="https://everstp.com">
-          <img src="" width="100%" alt="Portfolio"/></a>
-      <br />
-        <p align="center">
-  <a href="https://github.com/kayenp/portfolio-site" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/></a>
-  <a href="http://everstp.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/></a>
-      </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
-    </td>
-  </tr>
 </table>
 
 </details>
