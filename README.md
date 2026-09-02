@@ -1,5 +1,5 @@
 
-<img src="https://imgur.com/XKuHdr5" width="100%">
+<img src="https://i.imgur.com/XKuHdr5.png" width="100%">
 
 <p align="center">
   <a href="https://everstp.com" target="_blank">
