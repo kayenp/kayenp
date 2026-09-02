@@ -78,7 +78,7 @@ Reach out to me at [my website](https://everstp.com).
       <br />
       <p align="center">
         <a href="https://github.com/kayenp/multi-incognito" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/></a>
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/></a>
       </p>
       <p><strong>NodeJS, Express, Playwright, Chromium</strong> — Browser orchestrator used to launch multiple incognito custom chromium browser instances. Each instance will navigate to the specified page, select the specified product using Playwright and proceed to the checkout queue.</p>
     </td>
