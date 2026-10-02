@@ -74,7 +74,7 @@ Reach out to me at [my website](https://everstp.com).
       <h3 align="center">Multi-Browser Orchestrator</h3>
       <br />
       <a target="_blank" href="https://github.com/kayenp/multi-incognito">
-        <img src="" width="100%" alt="Multi-Incognito"/></a>
+        <img src="https://i.imgur.com/DWOPAJX.gif" width="100%" alt="Multi-Incognito"/></a>
       <br />
       <p align="center">
         <a href="https://github.com/kayenp/multi-incognito" target="_blank">
