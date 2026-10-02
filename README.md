@@ -80,7 +80,7 @@ Reach out to me at [my website](https://everstp.com).
         <a href="https://github.com/kayenp/multi-incognito" target="_blank">
           <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/></a>
       </p>
-      <p><strong>NodeJS, Express, Playwright, Chromium</strong> — Browser orchestrator used to launch multiple incognito custom chromium browser instances. Each instance will navigate to the specified page, select the specified product using Playwright and proceed to the checkout queue.</p>
+      <p><strong>NodeJS, Express, Playwright, Chromium</strong> — Browser orchestrator used to launch multiple incognito custom chromium browser instances. Each instance will navigate to the specified page, and then perform the specified automation flow using Playwright.</p>
     </td>
   </tr>
 </table>
